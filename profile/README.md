@@ -1,7 +1,7 @@
 # supporting Microsoft Open Source Projects
 ![microsoft](https://github.com/rvbgames/.github/blob/main/images/open-at-microsoft.png)
 # with NVIDIA flare
-![nvidia](https://github.com/rvbgames/.github/blob/main/images/nvidia.png)
+![nvidia](https://github.com/rvbgames/.github/blob/main/images/open-at-microsoft.png)
 
 ## Remember we all need a little flare
 
