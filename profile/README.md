@@ -10,8 +10,8 @@ Right now, open communities are building amazing software together, and there ar
 * [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
 * [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Visit [rvbgames.com](https://www.rvbgames.com) to learn more!
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+RvBGames adopts the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
